@@ -11,13 +11,13 @@ Amazon Web Services (AWS) is the world’s largest cloud provider, launched in 2
 ## Cloud Management Console
 AWS Management Console provides a web-based interface to manage services like EC2, S3, and IAM.
 
-## Core Services
+## Four Core Services
 1. **EC2** – Elastic Compute Cloud (virtual servers)
 2. **S3** – Simple Storage Service (object storage)
 3. **VPC** – Virtual Private Cloud (networking)
 4. **IAM** – Identity and Access Management
 
-## Advantages
+## Three Advantages
 - Broadest range of services
 - Mature ecosystem and documentation
 - Strong global presence
