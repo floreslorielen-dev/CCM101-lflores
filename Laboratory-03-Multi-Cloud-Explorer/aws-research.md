@@ -1,6 +1,6 @@
 # Amazon Web Services (AWS)
 
-## Overview
+## Brief Overview
 Amazon Web Services (AWS) is the world’s largest cloud provider, launched in 2006. It offers a wide range of services for startups, enterprises, and governments.
 
 ## Global Infrastructure
