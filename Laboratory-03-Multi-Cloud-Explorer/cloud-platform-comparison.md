@@ -27,3 +27,13 @@
 
 4. **Which cloud platform would you personally choose and why?**  
    I would choose GCP because of its cost-effectiveness and strong AI/Kubernetes ecosystem, which fits modern app development and research needs.
+
+## Matching Equivalent Cloud Services
+
+| Service Category   | AWS                  | Azure                  | GCP                  |
+|--------------------|----------------------|------------------------|----------------------|
+| Virtual Machine    | EC2                  | Virtual Machines       | Compute Engine       |
+| Object Storage     | S3                   | Blob Storage           | Cloud Storage        |
+| Identity Mgmt      | IAM                  | Azure Active Directory | Cloud IAM            |
+| SQL Database       | RDS                  | Azure SQL Database     | Cloud SQL            |
+| Kubernetes         | Elastic Kubernetes Service (EKS) | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
