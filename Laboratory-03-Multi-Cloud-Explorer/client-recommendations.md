@@ -42,3 +42,14 @@ A multinational online shopping company serves customers worldwide. They require
 - **RDS** – Managed relational database for transactions  
 - **CloudFront** – Content delivery network for global customers  
 - **Auto Scaling** – Automatic scaling of resources based on demand  
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement   | Recommended Platform | Justification |
+|------------------------|----------------------|---------------|
+| Startup Company        | GCP                  | Cost-effective, developer-friendly, scalable with Firebase and Cloud Run |
+| Enterprise Organization| AWS                  | Broadest range of services, mature ecosystem, reliable for large-scale workloads |
+| Microsoft Environment  | Azure                | Seamless integration with Windows Server, Active Directory, and Microsoft 365 |
+| AI / Machine Learning  | GCP                  | Strongest AI/ML tools (Vertex AI, TPUs) and Kubernetes leadership |
+| Kubernetes Deployment  | GCP                  | GKE is industry-leading, simple to manage and scale |
+| Global Web Application | AWS                  | Largest global infrastructure, CDN (CloudFront), Auto Scaling for high availability |
