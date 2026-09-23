@@ -1,5 +1,6 @@
 # MinIO Deployment Documentation
 ## Docker Command Used
+
 ```bash
 docker run -d \
   -p 9000:9000 \
@@ -17,6 +18,6 @@ Bucket Created
 ## Explanation of the -e Flags (Environment Variables)
 The -e flags are used to set environment variables inside the Docker container when it starts.
 * MINIO_ROOT_USER=cloudadmin
-This sets the administrator username for logging into the MinIO console.
+``` This sets the administrator username for logging into the MinIO console.```
 * MINIO_ROOT_PASSWORD=CloudNova2026
-This sets the administrator password, also These environment variables ensure secure access to the MinIO server by defining custom credentials instead of using defaults.
+ ```This sets the administrator password, also These environment variables ensure secure access to the MinIO server by defining custom credentials instead of using defaults.```
