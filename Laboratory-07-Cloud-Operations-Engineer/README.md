@@ -14,7 +14,7 @@ we deployed a containerized Nginx web server, generated traffic, and analyzed sy
 
 ---
 
-## Commands Executed
+## Monitoring Commands Executed
 - `free -h`
 - `df -h`  
 - `top`  
