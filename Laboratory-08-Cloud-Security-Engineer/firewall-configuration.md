@@ -1,4 +1,4 @@
-# Firewall Configuration – Laboratory 08
+# Firewall Configuration – Laboratory 08: Cloud Security Engineer
 
 ## Commands Used to Secure the Server
 
