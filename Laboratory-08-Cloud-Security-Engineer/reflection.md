@@ -1,1 +1,9 @@
+# Mission Reflection 
 
+  Working through this mission gave me a clearer understanding of how important host-based firewalls are in protecting servers. Even if the outside network is breached the firewall stands as a barrier by controlling traffic right on the machine. That means attackers who are scanning for ports or trying brute-force attacks get stopped unless their actions match the rules I set. It showed me that security isn't about one big wall. It’s many layers working together to keep things safe.
+
+  Managing which network ports are open is one of the effective ways to shrink a server’s attack surface. Every open port is like leaving a door open in a house. By using a "Default Deny" policy and only allowing the ports that're absolutely necessary like SSH for remote access and port 8080 for the web application I reduced the number of ways someone could get in. This experience helped me see how the Principle of Least Privilege applies not to user accounts but also to network traffic.
+
+ In an enterprise setup having a database port like 3306 (MySQL) open to the internet is a huge risk. Databases often store customer data or important business records. Attackers can exploit passwords or known vulnerabilities to steal or damage that data. The best approach is to keep database ports closed to the public and only allow access from within the network or, through secure VPN connections.
+
+  Completing this mission changed how I think about server security. Before I believed that long as a server was running it was safe. Now I know that without a firewall automated bots can find and attack it in minutes. Seeing my GitHub portfolio grow to eight completed missions makes me feel proud. It shows not my technical growth but also my ability to apply real-world cloud security practices in a practical way.
