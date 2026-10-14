@@ -8,8 +8,8 @@ In this mission, I stepped into the role of a Cloud Security Engineer to secure 
 - Perform a basic security audit of active network ports on a Linux server.
 - Configure the Uncomplicated Firewall (UFW) with a Default Deny policy.
 - Implement granular port management to selectively allow SSH and HTTP traffic.
-- Document firewall rules and security best practices using Markdown.
-- Continue expanding your professional GitHub Cloud Computing Portfolio.
+- Document firewall rules and security best practices.
+- Continue expanding my professional GitHub Cloud Computing Portfolio.
 
 ## Commands Executed
 ### Allow SSH
