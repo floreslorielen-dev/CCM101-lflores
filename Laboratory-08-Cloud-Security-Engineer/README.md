@@ -4,12 +4,12 @@
 In this mission, I stepped into the role of a Cloud Security Engineer to secure a vulnerable Ubuntu server. The task focused on applying the principle of defense in depth by configuring a host-based firewall (UFW) to block malicious traffic while allowing only legitimate connections. This exercise demonstrated how quickly an unsecured server can be compromised and why continuous monitoring and proactive security are essential.
 
 ## Objectives
-- Understand the Principle of Least Privilege (PoLP) and the concept of the Attack Surface.
-- Perform a basic security audit of active network ports.
-- Configure UFW with a Default Deny policy.
-- Implement granular port management to allow SSH and HTTP traffic only.
+- Understand the concept of the Attack Surface and the Principle of Least Privilege (PoLP).
+- Perform a basic security audit of active network ports on a Linux server.
+- Configure the Uncomplicated Firewall (UFW) with a Default Deny policy.
+- Implement granular port management to selectively allow SSH and HTTP traffic.
 - Document firewall rules and security best practices using Markdown.
-- Expand my GitHub Cloud Computing Portfolio with structured evidence.
+- Continue expanding your professional GitHub Cloud Computing Portfolio.
 
 ## Commands Executed
 ### Allow SSH
